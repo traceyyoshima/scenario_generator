@@ -1,0 +1,38 @@
+{
+  "properties": [
+    {
+      "name": "constraints.number-of-rooms-per-floor",
+      "type": "java.lang.String",
+      "description": "Description for constraints.number-of-rooms-per-floor."
+    },
+    {
+      "name": "constraints.number-of-floors",
+      "type": "java.lang.String",
+      "description": "Description for constraints.number-of-floors."
+    },
+    {
+      "name": "constraints.max-occupants-per-room",
+      "type": "java.lang.String",
+      "description": "Description for constraints.max-occupants-per-room."
+    },
+    {
+      "name": "constraints.checkin-start-time",
+      "type": "java.lang.String",
+      "description": "Description for constraints.checkin-start-time."
+    },
+    {
+      "name": "constraints.checkin-end-time",
+      "type": "java.lang.String",
+      "description": "Description for constraints.checkin-end-time."
+    },
+    {
+      "name": "constraints.checkout-start-time",
+      "type": "java.lang.String",
+      "description": "Description for constraints.checkout-start-time."
+    },
+    {
+      "name": "constraints.checkout-end-time",
+      "type": "java.lang.String",
+      "description": "Description for constraints.checkout-end-time."
+    }
+  ] }
